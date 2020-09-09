@@ -28,17 +28,17 @@
 .step-1-2 {
     color: white;
     background-color: black;
-    width: 480px;
+    width: 410px;
     letter-spacing: 4px;
-    font-size: 40px;
-    padding-left: 20px;
+    font-size: 35px;
+    padding: 20px;
 }
 
 span {
     display: inline-block;
     padding-left:30%;
     padding-bottom: 20px;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     opacity: 0.5;
 }
@@ -55,7 +55,7 @@ span {
 
 .step-2-2 {
     width: 900px;
-    font-size: 20px;   
+    font-size: 18px;   
 
 }
 
@@ -80,7 +80,7 @@ span {
     /* background-color: black; */
     width: 500px;
     letter-spacing: 4px;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .step-4 {
@@ -97,7 +97,7 @@ span {
 .step-4-4 {
     width: 900px;
     /* letter-spacing: 4px; */
-    font-size: 20px;
+    font-size: 18px;
 
 }
 .step-4-4 span {
@@ -125,7 +125,7 @@ span {
     /* background-color: black; */
     width: 500px;
     letter-spacing: 4px;
-    font-size: 40px;
+    font-size: 35px;
 
 
 }
@@ -144,7 +144,7 @@ span {
 .step-6-6 {
     width: 900px;
     /* letter-spacing: 4px; */
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .step-6-6 span {
@@ -170,8 +170,8 @@ span {
 .step-7-7 {
     color: white;
     background-color: black;
-    width: 730px;
+    width: 630px;
     letter-spacing: 4px;
-    font-size: 40px;
-    padding-left: 20px;
+    font-size: 35px;
+    padding: 20px;
 }
