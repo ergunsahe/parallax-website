@@ -6,6 +6,8 @@
 .flex-container {
     display: flex;
     flex-direction: column;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .step-1 {
@@ -19,19 +21,17 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    opacity: 0.7;
-    
-  
+    opacity: 0.7;  
 
 }
+
 .step-1-2 {
     color: white;
     background-color: black;
-    width: 500px;
+    width: 480px;
     letter-spacing: 4px;
     font-size: 40px;
-    
-
+    padding-left: 20px;
 }
 
 span {
@@ -54,17 +54,15 @@ span {
 }
 
 .step-2-2 {
-    
     width: 900px;
-    /* letter-spacing: 4px; */
-    font-size: 20px;
+    font-size: 20px;   
 
 }
 
 .step-3 {
     display: flex;
     width: 100vw;
-    height: 100vh;
+    height: 70vh;
     justify-content: center;
     align-items: center;
     background-image: url(./images/Image2.jpg);
@@ -91,7 +89,7 @@ span {
     align-items: center;
     width: 100vw;
     height: 300px;
-    background-color: black;
+    background-color:#282e34;
     color: white;
 
 }
@@ -105,4 +103,75 @@ span {
 .step-4-4 span {
     color: white;
     opacity: 1;
+}
+
+.step-5 {
+    display: flex;
+    width: 100vw;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/Image3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.7;
+
+}
+
+.step-5-5 {
+    color: white;
+    /* background-color: black; */
+    width: 500px;
+    letter-spacing: 4px;
+    font-size: 40px;
+
+
+}
+
+.step-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 300px;
+    background-color: #282e34;
+    color: white;
+    
+}
+
+.step-6-6 {
+    width: 900px;
+    /* letter-spacing: 4px; */
+    font-size: 20px;
+}
+
+.step-6-6 span {
+    color: white;
+    opacity: 1;
+}
+
+.step-7 { 
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/Image1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.7;
+
+}
+
+.step-7-7 {
+    color: white;
+    background-color: black;
+    width: 730px;
+    letter-spacing: 4px;
+    font-size: 40px;
+    padding-left: 20px;
 }
